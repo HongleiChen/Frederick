@@ -68,7 +68,7 @@
 
 - (void)application:(UIApplication *)application didFailToRegisterForRemoteNotificationsWithError:(NSError *)error
 {
-    NSLog(@"==============%@", error);
+//    NSLog(@"==============%@", error);
 }
 #pragma mark 接收本地通知时触发
 //- (void)application:(UIApplication *)application didReceiveLocalNotification:(UILocalNotification *)notification{
